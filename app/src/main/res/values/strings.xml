@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent Launcher</string>
+    <string name="title">Title</string>
+    <string name="yourMessage">Your Message</string>
+    <string name="checkBox">Only Send Title</string>
+    <string name="sendMail">send mail</string>
+    <string name="launchActivity">Launch Activity</string>
+    <string name="launchCamera">launch Camera</string>
+</resources>
